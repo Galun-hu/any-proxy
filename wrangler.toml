@@ -8,6 +8,6 @@ compatibility_date = "2024-01-01"
 workers_dev = true
 
 # 可选：设置自定义域名（需要先在 Cloudflare 配置）
-routes = [
-  { pattern = "anyrouter-proxy.1353663350l.workers.dev/*", zone_name = "anyrouter-proxy.1353663350l.workers.dev" }
-]
+# routes = [
+#   { pattern = "anyrouter-proxy.1353663350l.workers.dev/*", zone_name = "anyrouter-proxy.1353663350l.workers.dev" }
+# ]
